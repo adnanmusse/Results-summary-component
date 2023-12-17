@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Results summary component](https://adnanmusse.github.io/Results-summary-component/)
 
 
 ## My process
@@ -52,7 +52,7 @@ Users should be able to:
 ### Useful resources
 
  - [Kevin Powell's From Design to Code // HTML & CSS from scratch // Frontend Mentor](https://www.youtube.com/watch?v=KqFAs5d3Yl8)
- - [Malven's Flexbox Cheatsheet][def]
+ - [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 
 
 
